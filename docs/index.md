@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spot
+title: welcome to somewhere
 ---
 
 ## Tools I use for personal work
