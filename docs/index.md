@@ -3,11 +3,9 @@ layout: default
 title: Home
 ---
 
-Hello world!
+## Tools I use for personal work
+- (Joplin App)[https://joplinapp.org]
+- (Slack)https://slack.com]
+- (Pidgin)[https://pidgin.im]
+- (Evolution)[https://wiki.gnome.org/Apps/Evolution/]
 
-- Kanban boards
-- Scrum boards
-- Roadmaps
-- Agile reporting
-- Connect issues to code
-- More Automation
