@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tutorials
-permalink: /collectedTutorials/
+permalink: {site.url}/collectedTutorials/
 navigation_weight: 1
 ---
 ## Tutorials I like
