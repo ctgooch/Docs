@@ -1,4 +1,11 @@
 theme: jekyll-theme-minimal
 
+sidebar:
+  nav: "Thoughts"
+
+
+
 Thoughts:
-- title: collectedTutorials
+ url: /docs/collectedTutorials
+ title: Tutorials
+
