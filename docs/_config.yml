@@ -2,5 +2,5 @@ theme: jekyll-theme-slate
 baseurl: /Docs
 include:
  - collectedTutorials.md
- _layouts
+ - _layouts
 
